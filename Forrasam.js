@@ -38,7 +38,7 @@ bot(
         }
         // ADDED /* TO REMOVE LINK PREVIEW TYPE
         options.linkPreview = {
-               head: "𝞘𝙏𝙎 𝞛𝞝 𝙉𝙄𝙕𝞓𝙈",
+               head: "ITZ ME USMAN,
                body: "⇆ㅤ ||◁ㅤ❚❚ㅤ▷||ㅤ ",
                mediaType: 2, //3 for video
                thumbnail: buff2.buffer,
@@ -54,7 +54,7 @@ bot(
             message: {
                 "imageMessage": {
                     "jpegThumbnail": buff1.buffer,
-                    "caption": "   |͟ ̄͟͞ɴ͟͞ɪ͟͞ᴢ͟͞ᴀ͟͞͞ᴍ̠̄͟͞ ͟͞ᴏ͟͞ꜰ͟͞ᴄ̱͟͞ ̄͟|̱̄"
+                    "caption": "   𝚄𝚜𝚖𝚊𝚗𝚘𝚏𝚌"
                 }
             }
         }
